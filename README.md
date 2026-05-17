@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarib13
 - 👀 I’m interested in building bug-less applications
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Nextflow
 - 💞️ I’m looking to collaborate on App devlopment projects
 - 📫 How to reach me <saribkasana13@gmail.com>
 
